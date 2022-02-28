@@ -1,1 +1,1 @@
-# http://yihui-he.github.io/Objects-Detection-with-YOLO-on-Artwork-Dataset/
+# https://yihui-he.github.io/blog/multi-object-detection-with-yolo-on-artwork-dataset
